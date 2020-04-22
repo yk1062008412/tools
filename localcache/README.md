@@ -126,3 +126,7 @@ if (config.ifCache && !config.forceReload) {
 ## 注意
 
 代码 localStorage 命名 key 为 接口名称，如果不同接口，但名称重复，则需要做兼容方案，否则会产生bug。
+
+# last update
+
+2020-04-22
