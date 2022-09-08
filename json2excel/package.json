@@ -4,7 +4,7 @@
   "description": "## 作用",
   "main": "json2excel.js",
   "dependencies": {
-    "exceljs": "^1.7.0",
+    "exceljs": "^1.15.0",
     "fs": "^0.0.1-security"
   },
   "devDependencies": {},
